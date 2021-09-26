@@ -1,0 +1,2 @@
+# Ignore sphinx doc local build
+docs_src/build/
