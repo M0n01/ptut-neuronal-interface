@@ -10,16 +10,23 @@
 * Charge de travail : ~5h/semaine
 
 ## Récapitulatif du projet
-Le but de projet est d'analyser des données en provenance d'un FPGA via SPI. Les données correspondent à l'activité de neurones artificiels calculée par le FPGA. L'activité du réseau de neurone est envoyer par SPI à interval de temps régulier.
-La trame commence par un timestamp indiquant le numéro de l'échantillon (n) ou le temps actuel (n*dt).
-La suite de la trame correspond à l'activité des électrodes par ordre croissant.
+<p style=text-align:justify;>
+Le but de projet est d'analyser des données envoyées en SPI par un FPGA. Les données correspondent à l'activité de neurones artificiels calculée par le FPGA. 
+</p>
+
+<p style=text-align:justify;>
+L'activité du réseau de neurones est envoyée par SPI à interval de temps régulier (de 10kHz à 40kHz). La trame commence par un timestamp indiquant le numéro de l'échantillon (n) ou le temps écoulé (n*dt). La suite de la trame correspond à l'activité des électrodes par ordre croissant.
+</p>
+
+<p style=text-align:justify;>
 Les données devront être analysées selon les normes et standards en vigueur dans la littérature pour les activités de neurones.
 Les résultats d'analyse ainsi que les données devront être enregistrables, exportable et affichable.
 Le délai maximal de traitement est fixé à 5 secondes.
+</p>
 
 ## Tâches à accomplir
-* Analyse des données reçues
-* Enregistrement et export des résultats d'analyse
-* Affichage des résultats d'analyse
-* Affichage de l'activité avec interface graphique
-* Enregistrement et export de l'activité
+- [ ] Analyse des données reçues
+- [ ] Enregistrement et export des résultats d'analyse
+- [ ] Affichage des résultats d'analyse
+- [ ] Affichage de l'activité avec interface graphique
+- [ ] Enregistrement et export de l'activité
