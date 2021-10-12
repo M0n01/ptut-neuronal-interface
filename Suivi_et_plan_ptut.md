@@ -15,7 +15,7 @@
 * Recherche sur les spikes de neurones artificiels    
 </p>
 
-# Prochaine tâche à accomplir
+## Prochaine tâche à accomplir
 <p style=text-align:justify;>
 
 * Établir communication Arduino(master) ==> Raspberry(Slave)    
