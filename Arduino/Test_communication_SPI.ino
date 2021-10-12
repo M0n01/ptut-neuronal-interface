@@ -11,6 +11,7 @@ void setup() {
   
   Serial.begin(9600);
   pinMode(SlaveSelect, OUTPUT);
+  digitalWrite(SlaveSelect, 1);
   SPI.begin();
 
 }
