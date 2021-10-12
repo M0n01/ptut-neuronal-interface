@@ -3,7 +3,7 @@
 ## Travail effectué
 <p style=text-align:justify;>
 
-* Recherche communication ssh Raspberry ==> PC
+* Recherche communication ssh Raspberry ==> PC    
 <tab> - Problème avec la Raspberry qui pouvaut au début se connecté au point d'accès, mais qui à cesser de fonctionner    
 
 * Recherche communication SPI Arduino    
