@@ -11,6 +11,7 @@ void setup() {
   
   Serial.begin(9600);
   pinMode(SlaveSelect, OUTPUT);
+  digitalWrite(SlaveSelect, 1);
   SPI.begin();
 
 }
@@ -19,12 +20,12 @@ void loop() {
 
   delay(1000);
   
-  digitalWrite(SlaveSelect, 1);
+  digitalWrite(SlaveSelect, 0);
   
   SPI.transfer("01000001"); //Envoie lettre A
   Serial.println("A : 01000001");
 
-  digitalWrite(SlaveSelect, 0);
+  digitalWrite(SlaveSelect, 1);
   
   while(1);
 
