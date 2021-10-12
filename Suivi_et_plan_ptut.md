@@ -1,6 +1,8 @@
 # Suivi avancement du projet tutoré
 
-## Travail effectué
+## Week 41
+
+### Travail effectué
 <p style=text-align:justify;>
 
 * Recherche communication ssh Raspberry ==> PC    
@@ -15,7 +17,7 @@
 * Recherche sur les spikes de neurones artificiels    
 </p>
 
-## Prochaine tâche à accomplir
+### Prochaine tâche à accomplir
 <p style=text-align:justify;>
 
 * Établir communication Arduino(master) ==> Raspberry(Slave)    
