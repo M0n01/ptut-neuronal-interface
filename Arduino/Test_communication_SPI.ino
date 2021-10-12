@@ -19,12 +19,12 @@ void loop() {
 
   delay(1000);
   
-  digitalWrite(SlaveSelect, 1);
+  digitalWrite(SlaveSelect, 0);
   
   SPI.transfer("01000001"); //Envoie lettre A
   Serial.println("A : 01000001");
 
-  digitalWrite(SlaveSelect, 0);
+  digitalWrite(SlaveSelect, 1);
   
   while(1);
 
