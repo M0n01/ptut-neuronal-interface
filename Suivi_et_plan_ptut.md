@@ -17,6 +17,7 @@
 
 # Prochaine tâche à accomplir
 <p style=text-align:justify;>
+
 * Établir communication Arduino(master) ==> Raspberry(Slave)
 ** Recevoir trame de donnée et allumer led si valeur détecté
 </p>
