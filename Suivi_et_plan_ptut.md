@@ -6,13 +6,13 @@
 <p style=text-align:justify;>
 
 * Recherche communication ssh Raspberry ==> PC    
-<tab> - Problème avec la Raspberry qui pouvaut au début se connecté au point d'accès, mais qui à cesser de fonctionner    
+<tab><tab>  - Problème avec la Raspberry qui pouvaut au début se connecté au point d'accès, mais qui à cesser de fonctionner    
 
 * Recherche communication SPI Arduino    
-<tab> - Bibliothèque + Quelques lignes de code en C++    
+<tab><tab>  - Bibliothèque + Quelques lignes de code en C++    
 
 * Recherche communication SPI Raspberry    
-<tab> - Bibliothèque + Quelques lignes de code en Python    
+<tab><tab>  - Bibliothèque + Quelques lignes de code en Python    
 
 * Recherche sur les spikes de neurones artificiels    
 </p>
@@ -21,5 +21,5 @@
 <p style=text-align:justify;>
 
 * Établir communication Arduino(master) ==> Raspberry(Slave)    
-<tab> - Recevoir trame de donnée et allumer led si valeur détecté    
+<tab><tab>  - Recevoir trame de donnée et allumer led si valeur détecté    
 </p>
