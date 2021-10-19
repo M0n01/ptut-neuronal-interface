@@ -7,13 +7,13 @@
 
 * Connexion SSH et VNC Viewer                   
         - Manipulation PC et Rasp               
-                - Activation SPI / serveur SSH / VNC            
-                - Création fichier "wpa_supplicant.conf" et "ssh.txt"           
+                + Activation SPI / serveur SSH / VNC            
+                + Création fichier "wpa_supplicant.conf" et "ssh.txt"           
 
 * Solutionner problème Raspberry                        
         - Raspberry IUT HS                                      
-                - Pas retour écran              
-                - Pas SSH               
+                + Pas retour écran              
+                + Pas SSH               
 
 * Code arduino (master)         
         - Envoie info pour allumer LED avec la Rasp             
