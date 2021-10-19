@@ -5,27 +5,27 @@
 ### Travail effectué
 <p style=text-align:justify;>
 
-* Connexion SSH et VNC Viewer
-        - Manipulation PC et Rasp
-                - Activation SPI / serveur SSH / VNC
-                - Création fichier "wpa_supplicant.conf" et "ssh.txt" 
+* Connexion SSH et VNC Viewer                   
+        - Manipulation PC et Rasp               
+                - Activation SPI / serveur SSH / VNC            
+                - Création fichier "wpa_supplicant.conf" et "ssh.txt"           
 
-* Solutionner problème Raspberry
-        - Raspberry IUT HS
-                - Pas retour écran
-                - Pas SSH
+* Solutionner problème Raspberry                        
+        - Raspberry IUT HS                                      
+                - Pas retour écran              
+                - Pas SSH               
 
-* Code arduino (master)
-        - Envoie info pour allumer LED avec la Rasp
+* Code arduino (master)         
+        - Envoie info pour allumer LED avec la Rasp             
 
 </p>
 
 ### Prochaine tâche à accomplir
 <p style=text-align:justify;>
 
-* Code Python réception Bus SPI
-        - Allumer la led
-        
+* Code Python réception Bus SPI                 
+        - Allumer la led                        
+
 </p>
 
 ## Week 41
