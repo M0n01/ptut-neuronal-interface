@@ -10,8 +10,10 @@
                 -Bibliothèque spidev
                 -Mode BCM pour GPIO
                 -Broches SPI sur RPI3B+
+
         - Signal d'intéraction
                 -Branchement et code pour gestion LED
+                
         - Problème tension de communication Arduino==>RPI
                 -BSS138 pour ajuster tension?                         
 
