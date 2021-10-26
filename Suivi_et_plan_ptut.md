@@ -1,5 +1,26 @@
 # Suivi avancement du projet tutoré
 
+## Week 44
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Réparation Raspberry                  
+        -       Communication SSH                               
+        -       VNC viewer                      
+
+* Renseignement Intersipkes et Brusts           
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Etablir communication Arduino==>RPI                 
+        - Allumer la led
+        - Afficher sur moniteur série                      
+
+</p>
+
 ## Week 43
 
 ### Travail effectué
