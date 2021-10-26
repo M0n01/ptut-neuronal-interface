@@ -6,16 +6,13 @@
 <p style=text-align:justify;>
 
 * Setup raspberry pour SPI                   
-        - Prototype de code SPI               
+        - Prototype de code SPI et signal de communication            
                 -Bibliothèque spidev
                 -Mode BCM pour GPIO
-                -Broches SPI sur RPI3B+
-
-        - Signal d'intéraction
+                -Broches SPI sur RPI3
                 -Branchement et code pour gestion LED
-                
-        - Problème tension de communication Arduino==>RPI
-                -BSS138 pour ajuster tension?                         
+* Problème tension de communication Arduino==>RPI
+        -BSS138 pour ajuster tension?                         
 
 </p>
 
