@@ -13,7 +13,13 @@
                 -Branchement et code pour gestion LED
 * Problème tension de communication Arduino==>RPI
         -BSS138 pour ajuster tension?                         
-
+* Setup Arduino pour SPI                              
+        - Prototype de code SPI et signal de communication                         
+                - Bibliothèque "spi.h"                    
+                - Fonction SPI           
+                - Fonctionnalité Master et Slave        
+                                          
+* Renseignement Intersipkes et Brusts
 </p>
 
 ### Prochaine tâche à accomplir
