@@ -1,5 +1,31 @@
 # Suivi avancement du projet tutoré
 
+## Week 43
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Setup raspberry pour SPI                   
+        - Prototype de code SPI               
+                -Bibliothèque spidev
+                -Mode BCM pour GPIO
+                -Broches SPI sur RPI3B+
+        - Signal d'intéraction
+                -Branchement et code pour gestion LED
+        - Problème tension de communication Arduino==>RPI
+                -BSS138 pour ajuster tension?                         
+
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Etablir communication Arduino==>RPI                 
+        - Allumer la led
+        - Afficher sur moniteur série                      
+
+</p>
+
 ## Week 42
 
 ### Travail effectué
