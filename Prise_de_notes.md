@@ -2,8 +2,10 @@
 
 ## Indications
 
+<p style=text-align:justify;>
 * Interspike
     -   Ponctuel ==> Moyenne
+</p>
 
 * Burst
     -   interspike ==> Moyenne
