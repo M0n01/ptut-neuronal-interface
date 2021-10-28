@@ -16,8 +16,8 @@
 <p style=text-align:justify;>
 
 * Etablir communication Arduino==>RPI                 
-        - Allumer la led
-        - Afficher sur moniteur série                      
+        -       Allumer la led
+        -       Afficher sur moniteur série                      
 
 </p>
 
