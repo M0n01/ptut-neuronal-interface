@@ -9,15 +9,19 @@
         -       Communication SSH                               
         -       VNC viewer                      
 
-* Renseignement Intersipkes et Brusts           
+* Allumer led avec Rasp         
+        -       Code raspi.py                   
+
+* Renseignement fonction communication Rasp                     
+
+* Renseignement Intersipkes et Brusts                            
 </p>
 
 ### Prochaine tâche à accomplir
 <p style=text-align:justify;>
 
 * Etablir communication Arduino==>RPI                 
-        -       Allumer la led
-        -       Afficher sur moniteur série                      
+        -       Adaptateur                     
 
 </p>
 
