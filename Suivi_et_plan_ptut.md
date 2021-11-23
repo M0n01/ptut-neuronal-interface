@@ -1,24 +1,53 @@
 # Suivi avancement du projet tutoré
 
-## Week 45
+## Week 46
 
 ### Travail effectué
 <p style=text-align:justify;>
 
-* Reseignement module BOB-12009                          
-        -       Fonctionnement
-        -       Branchement
+* Fin lecture datasheet Module BOB-12009
+        -       Branchement             
+        -       Utilisation                                     
 
-* Code python communication SPI
-        -       Libraries 
-        -       Fonction                   
+* Poster structure                        
+        -       Informations à mettre                   
+        -       Présentation                            
+
+* Fin étude Code python communication SPI                 
+        -       Libraries                       
+        -       Fonction                
+
+* Soudure composant             
+                                
 </p>
 
 ### Prochaine tâche à accomplir
 <p style=text-align:justify;>
 
-* Etablir communication Arduino==>RPI                 
-        -       Adaptateur suite au renseignement                     
+* Etablir communication Arduino==>RPI                                        
+        -       Adaptateur suite au renseignement                                         
+
+</p>
+
+## Week 45
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Renseignement module BOB-12009                                         
+        -       Fonctionnement                  
+        -       Branchement                     
+
+* Code python communication SPI                 
+        -       Libraries                       
+        -       Fonction                                       
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Etablir communication Arduino==>RPI                                        
+        -       Adaptateur suite au renseignement                                         
 
 </p>
 
