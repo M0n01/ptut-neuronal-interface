@@ -5,6 +5,26 @@
 ### Travail effectué
 <p style=text-align:justify;>
 
+* Poster                        
+        -       Texte                   
+        -       schémas
+        -       Site Web                                     
+                                
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Etablir communication Arduino==>RPI                                        
+        -       Adaptateur suite au renseignement                                         
+
+</p>
+
+## Week 46
+
+### Travail effectué
+<p style=text-align:justify;>
+
 * Fin lecture datasheet Module BOB-12009
         -       Branchement             
         -       Utilisation                                     
