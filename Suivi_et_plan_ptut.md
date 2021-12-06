@@ -1,5 +1,28 @@
 # Suivi avancement du projet tutoré
 
+
+## Week 49
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Première Finalisation du Poster                   
+        - Refonte du poster sous ordre de monsieur Beaubois            
+                - Finalisation page Web
+                - Amélioration des couleurs pour meilleur visibilité
+                - Mise en place d'un texte plus synthétique 
+
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Version finale du poster                 
+        - Dernières corrections après concertation avec monsieur Beaubois
+        - Préparation orale                    
+
+</p>
+
 ## Week 46
 
 ### Travail effectué
@@ -93,28 +116,6 @@
 
 * Etablir communication Arduino==>RPI                 
         -       Adaptateur                     
-
-</p>
-
-## Week 43
-
-### Travail effectué
-<p style=text-align:justify;>
-
-* Première Finalisation du Poster                   
-        - Refonte du poster sous ordre de monsieur Beaubois            
-                - Finalisation page Web
-                - Amélioration des couleurs pour meilleur visibilité
-                - Mise en place d'un texte plus synthétique 
-
-</p>
-
-### Prochaine tâche à accomplir
-<p style=text-align:justify;>
-
-* Version finale du poster                 
-        - Dernières corrections après concertation avec monsieur Beaubois
-        - Préparation orale                    
 
 </p>
 
