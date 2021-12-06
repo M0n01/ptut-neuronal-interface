@@ -1,5 +1,101 @@
 # Suivi avancement du projet tutoré
 
+## Week 46
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Poster                        
+        -       Texte                   
+        -       schémas
+        -       Site Web                                     
+                                
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Etablir communication Arduino==>RPI                                        
+        -       Adaptateur suite au renseignement                                         
+
+</p>
+
+## Week 46
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Fin lecture datasheet Module BOB-12009
+        -       Branchement             
+        -       Utilisation                                     
+
+* Poster structure                        
+        -       Informations à mettre                   
+        -       Présentation                            
+
+* Fin étude Code python communication SPI                 
+        -       Libraries                       
+        -       Fonction                
+
+* Soudure composant             
+                                
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Etablir communication Arduino==>RPI                                        
+        -       Adaptateur suite au renseignement                                         
+
+</p>
+
+## Week 45
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Renseignement module BOB-12009                                         
+        -       Fonctionnement                  
+        -       Branchement                     
+
+* Code python communication SPI                 
+        -       Libraries                       
+        -       Fonction                                       
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Etablir communication Arduino==>RPI                                        
+        -       Adaptateur suite au renseignement                                         
+
+</p>
+
+## Week 44
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Réparation Raspberry                  
+        -       Communication SSH                               
+        -       VNC viewer                      
+
+* Allumer led avec Rasp         
+        -       Code raspi.py                   
+
+* Renseignement fonction communication Rasp                     
+
+* Renseignement Intersipkes et Brusts                            
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Etablir communication Arduino==>RPI                 
+        -       Adaptateur                     
+
+</p>
+
 ## Week 43
 
 ### Travail effectué
