@@ -1,5 +1,22 @@
 # Suivi avancement du projet tutoré
 
+## Week 50
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Préparation oral de janvier                  
+
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Version finale du poster                 
+        - Dernières corrections après concertation avec monsieur Beaubois
+        - Préparation orale                    
+
+</p>
 
 ## Week 49
 
@@ -23,7 +40,7 @@
 
 </p>
 
-## Week 46
+## Week 47
 
 ### Travail effectué
 <p style=text-align:justify;>
