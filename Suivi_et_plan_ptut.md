@@ -89,7 +89,7 @@
 <p style=text-align:justify;>
 
 * Version finale du poster                 
-        - Dernières corrections après concertation avec monsieur Beaubois
+        - Dernières corrections après concertation avec monsieur Beaubois                       
         - Préparation orale                    
 
 </p>
@@ -119,7 +119,7 @@
 ### Travail effectué
 <p style=text-align:justify;>
 
-* Fin lecture datasheet Module BOB-12009
+* Fin lecture datasheet Module BOB-12009                        
         -       Branchement             
         -       Utilisation                                     
 
@@ -202,7 +202,7 @@
                 -Broches SPI sur RPI3
                 -Branchement et code pour gestion LED
 * Problème tension de communication Arduino==>RPI
-        -BSS138 pour ajuster tension?                         
+        - BSS138 pour ajuster tension?                         
 * Setup Arduino pour SPI                              
         - Prototype de code SPI et signal de communication                         
                 - Bibliothèque "spi.h"                    
