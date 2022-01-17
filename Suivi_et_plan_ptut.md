@@ -1,5 +1,58 @@
 # Suivi avancement du projet tutoré
 
+## Week 3
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Formation sur l'analyse de donnée
+        -       Librairie python
+        -       Fonction python                    
+
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Envoyer une trame de donnée                    
+* Conception d'un algorithme de traitement                   
+</p>
+
+## Week 2
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Communication SPI             
+        -       Envoie et réception d'une seule donnée                         
+
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Envoyer une trame de donnée                    
+* Conception d'un algorithme de traitement                   
+</p>
+
+## Week 1
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Préparation oral PTUT                  
+
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Version finale du poster                 
+        - Dernières corrections après concertation avec monsieur Beaubois
+        - Préparation orale                    
+
+</p>
+
 ## Week 50
 
 ### Travail effectué
