@@ -80,8 +80,8 @@
 * Première Finalisation du Poster                   
         - Refonte du poster sous ordre de monsieur Beaubois            
                 - Finalisation page Web
-                - Amélioration des couleurs pour meilleur visibilité
-                - Mise en place d'un texte plus synthétique 
+                - Amélioration des couleurs pour meilleur visibilité                            
+                - Mise en place d'un texte plus synthétique             
 
 </p>
 
