@@ -7,8 +7,10 @@
 
 * Formation sur l'analyse de donnée
         -       Librairie python
-        -       Fonction python                    
+        -       Fonction python                                 
 
+* Première piste de traitement de donné                 
+        -       Class/Dataframe en python               
 </p>
 
 ### Prochaine tâche à accomplir
@@ -47,9 +49,7 @@
 ### Prochaine tâche à accomplir
 <p style=text-align:justify;>
 
-* Version finale du poster                 
-        - Dernières corrections après concertation avec monsieur Beaubois
-        - Préparation orale                    
+* Avancement dans le prototypage                          
 
 </p>
 
