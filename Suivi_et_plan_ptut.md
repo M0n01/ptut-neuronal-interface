@@ -196,27 +196,27 @@
 <p style=text-align:justify;>
 
 * Setup raspberry pour SPI                   
-        - Prototype de code SPI et signal de communication            
-                -Bibliothèque spidev
-                -Mode BCM pour GPIO
-                -Broches SPI sur RPI3
-                -Branchement et code pour gestion LED
-* Problème tension de communication Arduino==>RPI
+        - Prototype de code SPI et signal de communication                                           
+                -Bibliothèque spidev                    
+                -Mode BCM pour GPIO                     
+                -Broches SPI sur RPI3                   
+                -Branchement et code pour gestion LED                   
+* Problème tension de communication Arduino==>RPI               
         - BSS138 pour ajuster tension?                         
 * Setup Arduino pour SPI                              
         - Prototype de code SPI et signal de communication                         
                 - Bibliothèque "spi.h"                    
                 - Fonction SPI           
-                - Fonctionnalité Master et Slave        
+                - Fonctionnalité Master et Slave                
                                           
-* Renseignement Intersipkes et Brusts
+* Renseignement Intersipkes et Brusts           
 </p>
 
 ### Prochaine tâche à accomplir
 <p style=text-align:justify;>
 
 * Etablir communication Arduino==>RPI                 
-        - Allumer la led
+        - Allumer la led                        
         - Afficher sur moniteur série                      
 
 </p>
@@ -254,21 +254,21 @@
 ### Travail effectué
 <p style=text-align:justify;>
 
-* Recherche communication ssh Raspberry ==> PC    
-        - Problème avec la Raspberry qui pouvaut au début se connecté au point d'accès, mais qui à cesser de fonctionner    
+* Recherche communication ssh Raspberry ==> PC                          
+        - Problème avec la Raspberry qui pouvaut au début se connecté au point d'accès, mais qui à cesser de fonctionner                   
 
-* Recherche communication SPI Arduino    
-        - Bibliothèque + Quelques lignes de code en C++    
+* Recherche communication SPI Arduino                           
+        - Bibliothèque + Quelques lignes de code en C++                                 
 
-* Recherche communication SPI Raspberry    
-        - Bibliothèque + Quelques lignes de code en Python    
+* Recherche communication SPI Raspberry                         
+        - Bibliothèque + Quelques lignes de code en Python                      
 
-* Recherche sur les spikes de neurones artificiels    
+* Recherche sur les spikes de neurones artificiels                              
 </p>
 
 ### Prochaine tâche à accomplir
 <p style=text-align:justify;>
 
-* Établir communication Arduino(master) ==> Raspberry(Slave)    
-        - Recevoir trame de donnée et allumer led si valeur détecté    
+* Établir communication Arduino(master) ==> Raspberry(Slave)                            
+        - Recevoir trame de donnée et allumer led si valeur détecté                     
 </p>
