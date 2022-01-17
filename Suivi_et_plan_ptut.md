@@ -10,7 +10,8 @@
         -       Fonction python                                 
 
 * Première piste de traitement de donné                 
-        -       Class/Dataframe en python               
+        -       Class/Dataframe en python                       
+* Réparation/MAJ Raspberry           
 </p>
 
 ### Prochaine tâche à accomplir
