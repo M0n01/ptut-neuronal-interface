@@ -1,5 +1,28 @@
 # Suivi avancement du projet tutoré
 
+## Week 4
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Code arduino :                        
+        -       Création d'une trame                            
+        -       Recherche méthode d'envoie du bus SPI                           
+
+* En cours de Réparation/Prototypage                    
+        -       Conflit version python                          
+        -       Problème avec pip                                        
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Tester code python                            
+* Envoyer une trame de donnée                    
+* Conception d'un algorithme de traitement                   
+</p>
+
+
 ## Week 3
 
 ### Travail effectué
