@@ -1,5 +1,82 @@
 # Suivi avancement du projet tutoré
 
+## Week 4
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Code arduino :                        
+        -       Création d'une trame                            
+        -       Recherche méthode d'envoie du bus SPI                           
+
+* En cours de Réparation/Prototypage                    
+        -       Conflit version python                          
+        -       Problème avec pip                                        
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Tester code python                            
+* Envoyer une trame de donnée                    
+* Conception d'un algorithme de traitement                   
+</p>
+
+
+## Week 3
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Formation sur l'analyse de donnée
+        -       Librairie python
+        -       Fonction python                                 
+
+* Première piste de traitement de donné                 
+        -       Class/Dataframe en python                       
+* Réparation/MAJ Raspberry           
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Envoyer une trame de donnée                    
+* Conception d'un algorithme de traitement                   
+</p>
+
+## Week 2
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Communication SPI             
+        -       Envoie et réception d'une seule donnée                         
+
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Envoyer une trame de donnée                    
+* Conception d'un algorithme de traitement                   
+</p>
+
+## Week 1
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Préparation oral PTUT                  
+
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Avancement dans le prototypage                          
+
+</p>
+
 ## Week 50
 
 ### Travail effectué
@@ -26,8 +103,8 @@
 * Première Finalisation du Poster                   
         - Refonte du poster sous ordre de monsieur Beaubois            
                 - Finalisation page Web
-                - Amélioration des couleurs pour meilleur visibilité
-                - Mise en place d'un texte plus synthétique 
+                - Amélioration des couleurs pour meilleur visibilité                            
+                - Mise en place d'un texte plus synthétique             
 
 </p>
 
@@ -35,7 +112,7 @@
 <p style=text-align:justify;>
 
 * Version finale du poster                 
-        - Dernières corrections après concertation avec monsieur Beaubois
+        - Dernières corrections après concertation avec monsieur Beaubois                       
         - Préparation orale                    
 
 </p>
@@ -65,7 +142,7 @@
 ### Travail effectué
 <p style=text-align:justify;>
 
-* Fin lecture datasheet Module BOB-12009
+* Fin lecture datasheet Module BOB-12009                        
         -       Branchement             
         -       Utilisation                                     
 
@@ -142,27 +219,27 @@
 <p style=text-align:justify;>
 
 * Setup raspberry pour SPI                   
-        - Prototype de code SPI et signal de communication            
-                -Bibliothèque spidev
-                -Mode BCM pour GPIO
-                -Broches SPI sur RPI3
-                -Branchement et code pour gestion LED
-* Problème tension de communication Arduino==>RPI
-        -BSS138 pour ajuster tension?                         
+        - Prototype de code SPI et signal de communication                                           
+                -Bibliothèque spidev                    
+                -Mode BCM pour GPIO                     
+                -Broches SPI sur RPI3                   
+                -Branchement et code pour gestion LED                   
+* Problème tension de communication Arduino==>RPI               
+        - BSS138 pour ajuster tension?                         
 * Setup Arduino pour SPI                              
         - Prototype de code SPI et signal de communication                         
                 - Bibliothèque "spi.h"                    
                 - Fonction SPI           
-                - Fonctionnalité Master et Slave        
+                - Fonctionnalité Master et Slave                
                                           
-* Renseignement Intersipkes et Brusts
+* Renseignement Intersipkes et Brusts           
 </p>
 
 ### Prochaine tâche à accomplir
 <p style=text-align:justify;>
 
 * Etablir communication Arduino==>RPI                 
-        - Allumer la led
+        - Allumer la led                        
         - Afficher sur moniteur série                      
 
 </p>
@@ -200,21 +277,21 @@
 ### Travail effectué
 <p style=text-align:justify;>
 
-* Recherche communication ssh Raspberry ==> PC    
-        - Problème avec la Raspberry qui pouvaut au début se connecté au point d'accès, mais qui à cesser de fonctionner    
+* Recherche communication ssh Raspberry ==> PC                          
+        - Problème avec la Raspberry qui pouvaut au début se connecté au point d'accès, mais qui à cesser de fonctionner                   
 
-* Recherche communication SPI Arduino    
-        - Bibliothèque + Quelques lignes de code en C++    
+* Recherche communication SPI Arduino                           
+        - Bibliothèque + Quelques lignes de code en C++                                 
 
-* Recherche communication SPI Raspberry    
-        - Bibliothèque + Quelques lignes de code en Python    
+* Recherche communication SPI Raspberry                         
+        - Bibliothèque + Quelques lignes de code en Python                      
 
-* Recherche sur les spikes de neurones artificiels    
+* Recherche sur les spikes de neurones artificiels                              
 </p>
 
 ### Prochaine tâche à accomplir
 <p style=text-align:justify;>
 
-* Établir communication Arduino(master) ==> Raspberry(Slave)    
-        - Recevoir trame de donnée et allumer led si valeur détecté    
+* Établir communication Arduino(master) ==> Raspberry(Slave)                            
+        - Recevoir trame de donnée et allumer led si valeur détecté                     
 </p>
