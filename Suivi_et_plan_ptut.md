@@ -1,5 +1,37 @@
 # Suivi avancement du projet tutoré
 
+## Week 6
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Analyse de données :                  
+        -       Lecture et écriture fichier csv                                                   
+
+* Communication entres les cartes :                      
+        -       Envoie de données               
+
+</p>
+
+### Prochaine tâche à accomplir
+<p style=text-align:justify;>
+
+* Tester code python                            
+* Envoyer une trame de donnée                    
+* Conception d'un algorithme de traitement                   
+</p>
+
+## Week 5
+
+### Travail effectué
+<p style=text-align:justify;>
+
+* Code arduino :                        
+        -       Création d'une trame                                                
+
+* Réparation Raspberry                                       
+</p>
+
 ## Week 4
 
 ### Travail effectué
