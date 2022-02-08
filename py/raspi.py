@@ -29,13 +29,25 @@ rcv_byte = spi.xfer2([send_byte])
 rcv_byte = spi.xfer2([send_byte])
 
 data_recv = rcv_byte[0]
-
 if (data_recv != 0x80):
 	print("ready to communicate"+str(data_recv)) 
 	print(data_recv) #affiche la donné envoyé par l'arduino
-	GPIO.output(LED,GPIO.HIGH)
-	time.sleep(2) #allume et éteint une LED 
-	GPIO.output(LED,GPIO.LOW)
+	if (data_recv == 0x0):
+		GPIO.output(LED,GPIO.HIGH) # allume la LED
+	if (data_recv == 0x1):
+		GPIO.output(LED,GPIO.LOW) # éteint la LED
 	quit()
 
+# transmission d'un nombre binaire en python
+# on prendra un nombre en hexa quelconque 
 
+a = bin(0x1) # on envoie 0x1 en binaire sous la forme '0b1' -> le 0b car binaire
+a = a[2::] # supprime le 0b pour obtenir que le nombre binaire
+print(a) # a = 1
+
+b = bin(0x0) # ici on envoie 0 en binaire 
+b = b[2::]
+print(b)
+
+# on a ainsi des bit 1 et 0 que l'on peut envoyer à la suite
+# il faut juste traduire en language C pour arduino
